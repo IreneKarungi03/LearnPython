@@ -1,0 +1,13 @@
+# Ignore virtual environments
+tf_env/
+env/
+venv/
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Optional: Ignore large datasets
+*.csv
+*.zip
